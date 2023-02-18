@@ -1,4 +1,4 @@
-# Travel-Website
+# Travel Website
 This is simple website which is made by only HTML, CSS and minor javascript for toggle bar. It is fully responsive website and there is also a toggle bar , it will only view when it will open in the mobile view or small screen.
 
 * The website is built using only HTML, CSS, and a small amount of JavaScript code to implement a toggle bar feature.
